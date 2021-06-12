@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.quantity_plus {
+    border: 1px solid black;
+    padding: 5px 10px 8px 5px;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: black;
+    /* color: white; */
+}
+
+.quantity_plus span{
+   color: white;
+   text-decoration: none;
+}
+
+.quantity_minus{
+    padding: 5px 8px 8px 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    text-decoration: none;
+}
